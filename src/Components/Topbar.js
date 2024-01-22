@@ -1,4 +1,4 @@
-import { PhoneIcon, ClockIcon } from '@heroicons/react/24/solid';
+import { PhoneIcon, ClockIcon } from '@heroicons/react/24/solid'
 
 export default function Topbar() {
 
